@@ -18,7 +18,6 @@
 # How Does It Work?
 1️⃣ The user enters a city name and clicks the "Get Weather" button.
 2️⃣ The app fetches data from the API and displays the weather details.
-3️⃣ If there's an error in the API call, an error message is shown.
 
 #Output
 
